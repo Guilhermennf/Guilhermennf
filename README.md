@@ -1,4 +1,4 @@
-### Hi there! I'm Guilherme Nunes
+### Hi there, I'm Guilherme Nunes! A front-end developer!
 
 <div align="center">
   <a href="https://github.com/guilhermennf">
